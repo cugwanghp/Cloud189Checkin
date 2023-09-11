@@ -25,8 +25,8 @@ jobs:
       env:
         TY_USER_NAME: ${{secrets.TY_USER_NAME}}
         TY_PASSWORD: ${{secrets.TY_PASSWORD}}
-        # TY_USER_NAME1: ${{secrets.TY_USER_NAME1}}
-        # TY_PASSWORD1: ${{secrets.TY_PASSWORD1}}
+        TY_USER_NAME1: ${{secrets.TY_USER_NAME1}}
+        TY_PASSWORD1: ${{secrets.TY_PASSWORD1}}
         # TY_USER_NAME2: ${{secrets.TY_USER_NAME2}}
         # TY_PASSWORD2: ${{secrets.TY_PASSWORD2}}
         # TY_USER_NAM3: ${{secrets.TY_USER_NAM3}}
